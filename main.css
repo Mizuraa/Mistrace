@@ -1,0 +1,224 @@
+/*font*/
+@font-face {
+    font-family: "Comback";
+    src: url(CombackHomeRegular-jEMd9.ttf)format("truetype");
+}
+@font-face {
+    font-family: "Friday";
+    src: url(FridayNightRegular-0W9z4.ttf)format("truetype");
+}
+/*overall*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 300vh;
+}
+.html{
+    margin: 0;
+    padding: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/*headerrrrrr*/
+.homemis{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: "Comback";
+    transition: 0.3 ease;
+    
+
+}
+#header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 16px;
+    padding: 10px;
+    background: whitesmoke; 
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+    transition: transform 0.3s ease;
+    z-index: 1000; 
+}
+
+#header.hidden {
+    transform: translateY(-100%); 
+}
+
+.content {
+    margin-top: 100px; 
+    padding: 20px;
+}
+
+
+#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#navbar li{
+    list-style: none;
+    padding: 0 30px;
+    
+    
+}
+#navbar a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: "Comback";
+    transition: 0.3 ease;
+
+} 
+#navbar ul{
+    display: flex;
+    flex-direction:row;
+}
+.fa-solid{
+    color: black;
+}
+#navbar a:hover,
+#navbar a.active {
+    color: #c9c9c0;
+}
+#navbar img{
+    height: 30px;
+    margin-left: 100px;
+}
+/*Welcome*/
+.welh1, .welh2 {
+    position: absolute;
+    top: 20%;
+    transform: translateY(-50%);
+    padding: 20px;
+    color: black;
+    font-size: 24px;
+    font-family: "Friday";
+    z-index: 1; 
+}
+
+.welh1 {
+    left: 20px; 
+}
+
+.welh2 {
+    right: 20px; 
+}
+
+.welh1nd {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    top: 25%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    color: black;
+    font-size: 24px;
+    font-family: "Friday";
+    z-index: 1; 
+}
+
+.welvid {
+    width: 100%;
+    height: 70vh;
+    object-fit: cover;
+    position: absolute;
+    top: 30vh;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: block;
+    z-index: -1; 
+}
+.midmage {
+    width: 15%;
+    height: 20%;
+    max-width: 400px; 
+    position: absolute;
+    top: 63px; 
+    left: 50%;
+    transform: translateX(-50%);
+}
+/*feature*/
+.shopbutton {
+    position: absolute;
+    top: 105vh;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    background-color: Black; 
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Bebas Neue', sans-serif; 
+    letter-spacing: 2px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.shopbutton:hover {
+    background-color: #c9c9c0;
+}
+.butshop{
+    text-decoration: none;
+    color: white;
+}
+#sayo{
+    margin-top: 10px;
+}
+.feature-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: -70px; 
+}
+
+.feature-box {
+    width: 200px;
+    padding: 20px;
+    margin: 60px 30px;
+    text-align: center;
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06); 
+}
+
+.feature-box i {
+    font-size: 40px; 
+    margin-bottom: 50px;
+}
+
+.feature-box img {
+    width: 100px;
+    margin-bottom: 10px;
+}
+/*Trends*/
+#Trind{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Trend{
+    font-family: "comback";
+    font-size: 36px;
+    color: black
+}
