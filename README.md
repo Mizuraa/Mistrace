@@ -1,36 +1,31 @@
-Documentation
+DOCUMENTATION
 
+1. What type of website are you envisioning?
+Response: A minimalist yet elegantly designed website.
 
+2. How crucial is design for the success of your website?
+Response: Design is paramount; it plays a pivotal role in engaging customers effectively.
 
-1.What do type of website do you want?
-answer: Just a simple one with great design and color
+3. Is font selection a significant consideration for your website?
+Response: No, font choice is not a critical factor.
 
-2.What do design important in your webste?
-answer: Yes, To encourage more customer
+4. When was this apparel venture established?
+Response: The apparel store was founded in 2023.
 
-3.What do font important to you?
-answer:
+5. How extensive is your current clothing collection?
+Response: Currently, the store features three distinct clothing items.
+   
+6. What would you identify as the key highlights for your website?
+ Response: The focal points are the sophisticated design and harmonious color palette.
 
-4.What year does this apparel started?
-answer: 
+7. How crucial is the color scheme for your website?
+Response: Essential; we aim for an aesthetic and attention-grabbing color combination.
+ 
+8. Are you interested in incorporating animations on the website?
+Response: Not a priority, but if animations enhance the user experience, they are welcome.
 
-5.How many cloth does this apparel store has?
-answer: 
+9. What color preferences do you have for the website?
+Response: We entrust the experts to decide on a suitable and appealing color scheme.
 
-6.What could be the main key highlight of the website?
-answer: 
-
-7.Does the color combination important for the website?
-answer: 
-
-8.Do you want some animation for the website?
-answer: 
-
-9.What color do you want in this website?
-answer: 
-
-10.What do you expect in this website?
-answer: 
-
-
-
+10. What are your expectations for the website?
+Response: We anticipate a user-friendly interface coupled with visually appealing aesthetics.
