@@ -3,10 +3,10 @@ Documentation
 
 
 1.What do type of website do you want?
-answer: 
+answer: Just a simple one with great design and color
 
 2.What do design important in your webste?
-answer: 
+answer: Yes, To encourage more customer
 
 3.What do font important to you?
 answer:
