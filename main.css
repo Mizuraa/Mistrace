@@ -212,13 +212,11 @@ body{
     margin-bottom: 10px;
 }
 /*Trends*/
-#Trind{
-    text-align: center;
-    margin-top: 50px;
-}
-
 .Trend{
     font-family: "comback";
     font-size: 36px;
-    color: black
+    color: black;
+    position: absolute;
+    top: 170vh;
+    left: 47%;
 }
